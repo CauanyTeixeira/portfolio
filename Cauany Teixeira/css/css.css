@@ -1,0 +1,62 @@
+body {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      background-color: #5b9bbe;}
+
+.logo {left: 20px;
+      position: relative;}
+
+nav {background-color: #d9d3c3;
+     width: 99%;
+     position: absolute;
+     height: 110px;
+     text-align: right;}
+
+nav a {text-decoration: none;
+       position: relative;
+       right: 20px;
+       top: 43px;
+       color: black;
+       padding-left: 20px;
+       font-size: 20px;}
+
+footer {background-color: #d9d3c3; text-align: center;}       
+
+h1 {line-height: 30px;
+    width: 650px;
+    position: relative;
+    text-justify: auto;
+    top: 80px;
+    color: black;}
+
+p {line-height: 30px;
+   width: 650px;
+   position: relative;
+   text-justify: auto;
+   top: 80px;
+   
+   color: black;}
+
+.holmes {border-radius: 20px; 
+        position: relative; 
+        left: 700px; 
+        width: 650px; 
+        top: -320px;}
+
+.lupim {border-radius: 20px; 
+        position: relative; 
+        left: 700x; 
+        width: 650px;  
+        top: -300px;
+        left: 900px;}
+
+h4 {position: relative; left: 8px;}
+
+
+.botao {position: relative;
+        top: -120px;}
+
+.botao a {padding: 20px;
+         position: relative;
+         top: -15px;}
+
+
+        
